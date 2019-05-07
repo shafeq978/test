@@ -1,0 +1,27 @@
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\bin\Debug\Mamdani.exe.config
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\bin\Debug\Mamdani.exe
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\bin\Debug\Mamdani.pdb
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\obj\Debug\Mamdani.csprojResolveAssemblyReference.cache
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\obj\Debug\Mamdani.Form1.resources
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\obj\Debug\Mamdani.Properties.Resources.resources
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\obj\Debug\Mamdani.csproj.GenerateResource.Cache
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\obj\Debug\Mamdani.exe
+c:\users\fesih\documents\visual studio 2015\Projects\Mamdani\Mamdani\obj\Debug\Mamdani.pdb
+C:\Users\user\Desktop\Mamdani\Mamdani\bin\Debug\Mamdani.exe.config
+C:\Users\user\Desktop\Mamdani\Mamdani\obj\Debug\Mamdani.exe
+C:\Users\user\Desktop\Mamdani\Mamdani\obj\Debug\Mamdani.pdb
+C:\Users\user\Desktop\Mamdani\Mamdani\bin\Debug\Mamdani.exe
+C:\Users\user\Desktop\Mamdani\Mamdani\bin\Debug\Mamdani.pdb
+C:\Users\user\Desktop\Mamdani\Mamdani\obj\Debug\Mamdani.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Mamdani\Mamdani\obj\Debug\Mamdani.Form1.resources
+C:\Users\user\Desktop\Mamdani\Mamdani\obj\Debug\Mamdani.Properties.Resources.resources
+C:\Users\user\Desktop\Mamdani\Mamdani\obj\Debug\Mamdani.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\bin\Debug\Mamdani.exe.config
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\obj\Debug\Mamdani.exe
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\obj\Debug\Mamdani.pdb
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\bin\Debug\Mamdani.exe
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\bin\Debug\Mamdani.pdb
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\obj\Debug\Mamdani.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\obj\Debug\Mamdani.Form1.resources
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\obj\Debug\Mamdani.Properties.Resources.resources
+C:\Users\user\Desktop\bulanik_shafeq\Mamdani\obj\Debug\Mamdani.csproj.GenerateResource.Cache
